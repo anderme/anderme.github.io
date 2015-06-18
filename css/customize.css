@@ -1,9 +1,5 @@
 /*General*/
 
-html {
-
-}
-
 header {
   margin-bottom: 70px;
 }
@@ -16,7 +12,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-
 
 }
 
@@ -55,11 +50,14 @@ ul {
 
 .jumbotron {
   background-color: rgba(0,0,0,0.50);
-  border-radius: 30px;
-  padding-left: 20px;
-  padding-right: 30px;
-  margin-top: -10px;
-  margin-bottom: 30px
+  border-radius: 30px !important;
+  padding-left: 20px !important;
+  padding-right: 30px !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 50px !important;
+
+
 }
 
 
@@ -67,5 +65,11 @@ ul {
 
 
 #list-interest {
+  color: #39A9F1;
+}
+
+/*Others */
+
+ul>li {
   color: #39A9F1;
 }
