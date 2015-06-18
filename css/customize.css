@@ -59,17 +59,12 @@ ul {
   padding-left: 20px;
   padding-right: 30px;
   margin-top: -10px;
+  margin-bottom: 30px
 }
 
 
 /* IDs */
 
-/*#profile-photo {
-
-	border-radius: 50%;
-	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  margin: 20px;
-}*/
 
 #list-interest {
   color: #39A9F1;
