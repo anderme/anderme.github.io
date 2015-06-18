@@ -5,12 +5,10 @@ html {
 }
 
 header {
-  margin-bottom: 90px;
+  margin-bottom: 70px;
 }
 
 body {
-
-  margin-bottom: 100px;
 
   background-image: url("../img/bg-min.jpg");
   background-size: cover;
@@ -60,7 +58,7 @@ ul {
   border-radius: 30px;
   padding-left: 20px;
   padding-right: 30px;
-  margin: 20px;
+  margin-top: -10px;
 }
 
 
