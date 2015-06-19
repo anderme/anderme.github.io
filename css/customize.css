@@ -13,6 +13,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   padding-bottom: 70px;
+  background-color: black;
 
 }
 
@@ -40,12 +41,20 @@ ul {
   padding-left: 20px;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration:none;
+}
 
 /*Footer*/
 
 .footer {
   background: #00C957;
   padding-top: 15px;
+  font-size: 15px;
 }
 
 /*Classes */
@@ -62,6 +71,9 @@ ul {
 
 }
 
+.glyphicon-heart {
+  color: #fa334f;
+}
 
 /* IDs */
 
