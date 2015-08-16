@@ -18,20 +18,20 @@ body {
 }
 
 h1 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Pacifico', serif, cursive;
   font-size: 100;
   color: #00C957;
   padding: 20px;
 }
 
 h2 {
-  font-family: 'Finger Paint', cursive;
+  font-family: 'Finger Paint', serif, cursive;
   font-weight: bold;
   color: white;
 }
 
 h3 {
-  font-family: 'Finger Paint', cursive;
+  font-family: 'Finger Paint', serif, cursive;
   font-weight: bold;
   color: #00C957;
 }
