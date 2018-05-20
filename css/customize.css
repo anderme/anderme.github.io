@@ -1,2 +1,31 @@
 header{margin-bottom:70px}body{background-image:url("../img/bg-min.jpg");background-size:100%;background-repeat:no-repeat;background-attachment:fixed;background-size:cover;padding-bottom:70px;background-color:black}h1{font-family:'Pacifico', serif, cursive;font-size:100;color:#00C957;padding:20px}h2{font-family:'Finger Paint', serif, cursive;font-weight:bold;color:white}h3{font-family:'Finger Paint', serif, cursive;font-weight:bold;color:#00C957}ul{list-style-type:none;padding-left:20px}li{height:1.50em;padding-bottom:1,75em}a{text-decoration:none}a:hover{text-decoration:none;color:#a4d11b;font-size:1.1em}.footer{background:#00C957;padding-top:15px;font-size:15px}.jumbotron{background-color:rgba(0,0,0,0.5);border-radius:30px !important;padding-left:20px !important;padding-right:30px !important;padding-top:10px;padding-bottom:10px;margin-bottom:50px !important}.glyphicon-heart{color:#fa334f}#list-interest{color:#39A9F1}ul>li{color:#39A9F1}
 /*# sourceMappingURL=customize.css.map */
+
+/* pacifico-regular - latin */
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/pacifico-v12-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Pacifico Regular'), local('Pacifico-Regular'),
+       url('../fonts/pacifico-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/pacifico-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/pacifico-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/pacifico-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/pacifico-v12-latin-regular.svg#Pacifico') format('svg'); /* Legacy iOS */
+}
+
+
+/* finger-paint-regular - latin */
+@font-face {
+  font-family: 'Finger Paint';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/finger-paint-v7-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Finger Paint Regular'), local('FingerPaint-Regular'),
+       url('../fonts/finger-paint-v7-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/finger-paint-v7-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/finger-paint-v7-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/finger-paint-v7-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/finger-paint-v7-latin-regular.svg#FingerPaint') format('svg'); /* Legacy iOS */
+}
